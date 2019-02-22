@@ -20,4 +20,9 @@ public class Person {
     public void setName(String name) {
         this.name = name;
     }
+
+    public Person(String name, String studentNn) {
+        this.name = name;
+        this.studentNn = studentNn;
+    }
 }
