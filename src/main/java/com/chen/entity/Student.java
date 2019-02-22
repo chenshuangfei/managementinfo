@@ -3,6 +3,12 @@ package com.chen.entity;
 public class Student {
     private String name;
 
+    private String studentid;
+
+    public void setStudentid(String studentid) {
+        this.studentid = studentid;
+    }
+
     public String getName() {
         return name;
     }
