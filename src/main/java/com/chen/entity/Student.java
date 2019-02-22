@@ -20,4 +20,14 @@ public class Student {
     public Student(String name) {
         this.name = name;
     }
+
+    private String emial;
+
+    public String getEmial() {
+        return emial;
+    }
+
+    public void setEmial(String emial) {
+        this.emial = emial;
+    }
 }
