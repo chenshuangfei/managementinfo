@@ -30,4 +30,8 @@ public class Student {
     public void setEmial(String emial) {
         this.emial = emial;
     }
+
+    public static void main(String[] args) {
+        System.out.println();
+    }
 }
