@@ -39,4 +39,10 @@ public class Person {
     public boolean equals(Object obj) {
         return super.equals(obj);
     }
+
+    @Override
+    protected void finalize() throws Throwable {
+        super.finalize();
+    }
+
 }
