@@ -25,4 +25,8 @@ public class Person {
         this.name = name;
         this.studentNn = studentNn;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
