@@ -47,7 +47,7 @@ public class Person {
 
 
     public void getfenzhi(){
-        
+
     }
 
 }
