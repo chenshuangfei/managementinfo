@@ -45,4 +45,9 @@ public class Student {
     public boolean equals(Object obj) {
         return super.equals(obj);
     }
+
+
+    public String getStudentid() {
+        return studentid;
+    }
 }
