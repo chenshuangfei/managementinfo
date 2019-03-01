@@ -45,4 +45,9 @@ public class Person {
         super.finalize();
     }
 
+
+    public void getfenzhi(){
+        
+    }
+
 }
